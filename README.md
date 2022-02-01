@@ -10,5 +10,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/patrick-kurth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrick-kurth" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/patrick-kurth/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+<a href="https://github.com/pwkurth">
+<img src="https://img.shields.io/badge/Github-gray?style=flat&logo=github&labelColor=gray">
+</a>
+ <a href="mailto: patrickwkurth@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-orange?style=flat&logo=gmail&labelColor=white">
+</a>
 </p>
